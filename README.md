@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15587151&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -5,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Within the discipline of computer science, software engineering is concerned with the planning, creation, testing, and upkeep of software systems. It creates software using engineering concepts with the goal of producing scalable, dependable, and effective software solutions. Software engineering is important in the technical industry in the following ways:
+Within the discipline of computer science software engineering is concerned with the planning, creation, testing, and upkeep of software systems. It creates software using engineering concepts with the goal of producing scalable, dependable, and effective software solutions. Software engineering is important in the technical industry in the following ways:
  1.Scalability: Software that has been properly designed can accommodate an increase in users, data, or transactions. Scalability is essential for companies who want to grow or change to meet the expectations of the market.
 
 2. Cost-effectiveness: By identifying problems early in the development process, good software engineering methods can help save expensive mistakes and rework. This also helps to make effective use of time and resources.
